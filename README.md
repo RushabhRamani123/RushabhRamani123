@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Working on a MERN Stack E-commerce Website!<br>🤝 Ready to collaborate and learn.<br>🔧 Skilled with React and Redux Toolkit.<br>💖 Passionate about coding and web development.<br>
+🚀 Working on a MERN Stack Social Media Website!<br>🤝 Ready to collaborate and learn.<br>🔧 Skilled with React and Redux Toolkit.<br>💖 Passionate about coding and web development.<br>
 
 
 ## 🌐 Socials:
